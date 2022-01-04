@@ -8,7 +8,7 @@
 
 # General Info
 
-This is The Odin Project's landing page project. In this project, we create a replica of a landing page's stle and layout. This website is about my dog, Tinkerbear.
+This is The Odin Project's landing page project. In this project, we create a replica of a landing page's stle and layout. This website is about my cat, Toothless.
 
 This project's purposes are as follows:
 
